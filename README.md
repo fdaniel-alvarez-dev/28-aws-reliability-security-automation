@@ -1,6 +1,9 @@
-# 28-aws-reliability-security
+# 28-aws-reliability-security-automation
 
 A production-minded Database Reliability Engineering toolkit: HA lab, backup/PITR drills, and zero-downtime migration playbooks.
+
+Focus: automation
+
 
 ## Why this repo exists
 This is a portfolio-grade, runnable toolkit that demonstrates how I approach database reliability work:
